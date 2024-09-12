@@ -49,6 +49,6 @@
 ## Example CSV Format
 
 ```csv
-called_number,recording_url
+called_number,recording
 8869021459,http://example.com/recording1.wav
 8958703556,http://example.com/recording2.wav
